@@ -6,20 +6,20 @@ language.code=en_US
 gui.done=Done
 gui.cancel=Cancel
 gui.back=Back
-gui.toMenu=Back to title screen
+gui.toMenu=Leave the horror...
 gui.up=Up
 gui.down=Down
 gui.yes=Yes
 gui.no=No
 
-menu.singleplayer=Singleplayer
-menu.multiplayer=Multiplayer
-menu.online=Minecraft Realms
-menu.options=Options...
-menu.quit=Quit Game
-menu.returnToMenu=Save and Quit to Title
-menu.disconnect=Disconnect
-menu.returnToGame=Back to Game
+menu.singleplayer=Worst Nightmare
+menu.multiplayer=Share The Nightmare
+menu.online=Express The Nightmare To All
+menu.options=Changes
+menu.quit=Leave Forever
+menu.returnToMenu=Leave the horror...
+menu.disconnect=Leave the horror...
+menu.returnToGame=Continue Your Death
 menu.switchingLevel=Switching worlds
 menu.generatingLevel=Generating world
 menu.loadingLevel=Loading world
@@ -27,18 +27,18 @@ menu.generatingTerrain=Building terrain
 menu.convertingLevel=Converting world
 menu.simulating=Simulating the world for a bit
 menu.respawning=Respawning
-menu.shareToLan=Open to LAN
+menu.shareToLan=Share The Horror
 
-selectWorld.title=Select World
+selectWorld.title=Pick Your Death
 selectWorld.empty=empty
 selectWorld.world=World
 selectWorld.select=Play Selected World
 selectWorld.create=Create New World
 selectWorld.recreate=Re-Create
 selectWorld.createDemo=Play New Demo World
-selectWorld.delete=Delete
-selectWorld.rename=Rename
-selectWorld.deleteQuestion=Are you sure you want to delete this world?
+selectWorld.delete=World Abyss
+selectWorld.rename=Change Labels
+selectWorld.deleteQuestion=Are you sure you want to send this world to the world abyss?
 selectWorld.deleteWarning=will be lost forever! (A long time!)
 selectWorld.deleteButton=Delete
 selectWorld.renameButton=Rename
@@ -1236,7 +1236,7 @@ itemGroup.brewing=Brewing
 itemGroup.materials=Materials
 itemGroup.inventory=Survival Inventory
 
-inventory.binSlot=Destroy Item
+inventory.binSlot=Item Abyss
 
 advMode.setCommand=Set Console Command for Block
 advMode.command=Console Command
@@ -1244,7 +1244,7 @@ advMode.nearestPlayer=Use "@p" to target nearest player
 advMode.randomPlayer=Use "@r" to target random player
 advMode.allPlayers=Use "@a" to target all players
 
-advMode.notEnabled=Command blocks are not enabled on this server
+advMode.notEnabled=ENABLE COMMAND BLOCKS IN THE SERVER SETTINGS!!!!
 advMode.notAllowed=Must be an opped player in creative mode
 
 mco.title=Minecraft Realms
@@ -1253,7 +1253,7 @@ mco.selectServer.configure=Configure
 mco.selectServer.create=Create World
 mco.selectServer.moreinfo=More Info
 
-mco.configure.world.edit.title=Edit World
+mco.configure.world.edit.title=Change World
 
 mco.configure.world.title=Configure World
 mco.configure.world.name=Name
@@ -1263,8 +1263,8 @@ mco.configure.world.owner=Owner
 mco.configure.world.status=Status
 mco.configure.world.location=Location
 mco.configure.world.invited=Invited
-mco.configure.world.buttons.edit=Edit
-mco.configure.world.buttons.reset=Reset World
+mco.configure.world.buttons.edit=Change
+mco.configure.world.buttons.reset=Duplicate
 mco.configure.world.buttons.done=Done
 mco.configure.world.buttons.delete=Delete
 mco.configure.world.buttons.open=Open World
@@ -1288,8 +1288,8 @@ mco.create.world.location.title=Locations
 mco.create.world.location.warning=You may not get the exact location you select
 mco.create.world.wait=Creating the world...
 
-mco.reset.world.title=Reset World
-mco.reset.world.warning=This will permanently delete your world!
+mco.reset.world.title=World Fountain
+mco.reset.world.warning=This will send your world to the world fountain!
 mco.reset.world.seed=World Seed (Optional)
 mco.reset.world.resetting.screen.title=Resetting World...
 
